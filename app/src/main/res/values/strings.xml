@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyKotlinApp</string>
+    <string name="app_name">Calcul2Surface</string>
     <string name="calcul_de_surface">Calcul de surface</string>
     <string name="rayon">Rayon en cm</string>
     <string name="surface_d_un_disque">Surface d\'un disque</string>
